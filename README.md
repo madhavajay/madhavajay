@@ -1,7 +1,7 @@
 <h1 align="center">Madhava Jay</h1>
 
 <p align="center">
-  Principal Engineer @ <a href="https://github.com/OpenMined">OpenMined</a><br />
+  Principal Engineer @ <a href="https://openmined.org">OpenMined</a><br />
   Building privacy-preserving AI, bioinformatics systems, and agentic developer tools.
 </p>
 
@@ -69,17 +69,16 @@ The most active public package profile is on PyPI:
 
 - [India AI Impact Summit 2026: Genomics and AI for Global Health](https://www.youtube.com/watch?v=BJ4LK9Knemk)
 - [2021 PETs: Remote Data Science Unleashed - R Gov NY'21](https://www.youtube.com/watch?v=qVf0tPBzr2k)
-- [Open Source is your Destiny \| Madhava Jay \| SFD-PU'21 (2021)](https://www.youtube.com/watch?v=ghvE6Y1oIrs&t=1s)
+- [Open Source is your Destiny \| Madhava Jay \| SFD-PU'21 (2021)](https://www.youtube.com/watch?v=ghvE6Y1oIrs)
 - [Giving Back with GitHub Munich iOS Meetup (2016)](https://www.youtube.com/watch?v=ErG-8-TMXug)
 
 ## Writing
 
 Recent posts from the blog repo:
 
-- [Agentic Coding Slot Machines](https://madhavajay.com/agentic-coding-slot-machines/)
-- [Cold Start Review](https://madhavajay.com/cold-start-review/)
-- [Staying Relevant in an Agentic World](https://madhavajay.com/staying-relevant-in-an-agentic-world/)
-- [LLM Glove](https://madhavajay.com/llm-glove/)
+- [Agentic Coding Slot Machines](https://madhavajay.com/agentic-coding-slot-machines-did-we-just-summon-a-genie-addiction/)
+- [Cold Start Review](https://madhavajay.com/the-cold-start-problem-using-network-effects-to-scale-your-product/)
+- [Staying Relevant in an Agentic World](https://madhavajay.com/ai-first-hiring-teamwork-and-org-structures-staying-relevant-in-an-agentic-world/)
 
 You can also browse the source for the writing here:
 
@@ -87,7 +86,6 @@ You can also browse the source for the writing here:
 
 ## Elsewhere
 
-- [GitHub](https://github.com/madhavajay)
 - [Website](https://madhavajay.com)
 - [Blog source](https://github.com/madhavajay/blog)
 - [PyPI](https://pypi.org/user/madhavajay/)
