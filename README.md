@@ -41,6 +41,7 @@ Sorted loosely by public traction, then recency and how representative they are 
 | [OpenMined/PySyft](https://github.com/OpenMined/PySyft) | 9869 | Python | Flagship privacy-preserving data science platform at OpenMined |
 | [OpenMined/syftbox](https://github.com/OpenMined/syftbox) | 19 | Go / Rust | "The internet of private data" |
 | [OpenMined/biovault](https://github.com/OpenMined/biovault) | 10 | Rust | Private bioinformatics infrastructure |
+| [madhavajay/crabauth](https://github.com/madhavajay/crabauth) | 6 Rust | Release passkeys, and secrets from Mac host to Mac VM via TouchID and chrome extension
 | [madhavajay/cleon](https://github.com/madhavajay/cleon) | 2 | Python | Use Agent harnesses in Jupyter notebooks |
 | [madhavajay/crabmux](https://github.com/madhavajay/crabmux) | 2 | Rust | Better Tmux launcher |
 | [madhavajay/RememberIt](https://github.com/madhavajay/RememberIt) | 2 | Jupyter Notebook | Flashcard / memory tooling experiments |
